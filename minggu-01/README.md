@@ -1,7 +1,7 @@
 # Pertemuan 01 Instalasi Git Pada Windows
 
 1. Langkah pertama download melalui link https://github.com/stmik-akakom/rtfm.
-![00](00.PNG)
+	![00](./gambar/00.PNG)
 
 2. Setelah download, buka file tersebut untuk menjalankan proses instalasi. Ikuti semua instruksi. Maka akan muncul infomasi lisensi Git, klik Next > untuk melanjutkan.
    
