@@ -8,6 +8,6 @@ Silahkan lakukan konfigurasi dengan perintah berikut ini.
 Kemudian periksa konfigurasinya dengan perintah berikut :
 kemudian akan tampil hasil configurasi berikut
 
-2. ![](./gambar/list config1.png)
+2. ![](./gambar/list1.png)
 
-3. ![](./gambar/list config2.png)
+3. ![](./gambar/list2.png)
