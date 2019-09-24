@@ -12,4 +12,7 @@ Beberapa contoh aplikasi yang sudah ada :
 3. Google Services
 4. Prezi
 
+Berikut Arsitektur SaaS :
+
+
 ![001](gambar/saas.PNG.jpg)
