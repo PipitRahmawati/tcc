@@ -9,3 +9,5 @@ Beberapa contoh aplikasi yang sudah ada :
 2. Dropbox
 3. Google Services
 4. Prezi
+
+![001](gambar/saas.PNG.jpg)
